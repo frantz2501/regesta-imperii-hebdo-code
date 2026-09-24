@@ -1,0 +1,2 @@
+# ri_opac_api.py n'utilise que la bibliotheque standard Python (urllib,
+# argparse, json, xml.etree). Aucune dependance externe a installer.

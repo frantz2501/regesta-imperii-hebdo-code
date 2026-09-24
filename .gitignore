@@ -1,0 +1,18 @@
+# environnement virtuel
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# sorties et artifacts locaux
+*.jsonl
+*.parquet
+out.json
+latest.err
+
+# pages et docs sauvegardees hors code
+*.pdf
+*.htm
+*_files/
